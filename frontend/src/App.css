@@ -1,0 +1,25 @@
+:root {
+  --game-blue: #47ff0f;
+  --game-blue-light: #47ff0f;
+  --dark: #30363a;
+}
+
+.bible{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.box {
+  margin: 100px;
+  border: 2px solid white;
+  border-radius: 10px;
+  height: 300px;
+  width: 500px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  display: flex;
+}
