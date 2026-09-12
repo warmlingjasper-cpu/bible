@@ -1,6 +1,7 @@
 import './App.css'
 import { useState } from 'react'
 import GameResult from './components/GameResult'
+import bibleTexts from './data/bibleTexts'
 
 
 function App() {
@@ -10,14 +11,12 @@ function App() {
 
   function handlePlayerChoice() {
 
-    const gameResult = ["text1", "text2", "text3"]
-    const randomIndex = Math.floor(Math.random() * gameResult.length)
+    const randomIndex = Math.floor(Math.random() * bibleTexts.length)
 
 
-    setResult(gameResult[randomIndex])
+    setResult(bibleTexts[randomIndex])
 
   }
-
 
   return (
 
@@ -34,7 +33,7 @@ function App() {
             className="play"
             onClick={handlePlayerChoice}
           >
-            Play
+            🙏
           </button>
       </main>
     </div>

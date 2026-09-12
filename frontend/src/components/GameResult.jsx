@@ -1,4 +1,4 @@
-function GameResult({ computerChoice, result }) {
+function GameResult({ result }) {
 
   if (!result) {
     return <p>Play!</p>
@@ -7,7 +7,8 @@ function GameResult({ computerChoice, result }) {
 
   return (
     <div className="game-result">
-      <p>{result}</p>
+      <p>"{result.text}"</p>
+      <small>{result.reference}</small>
     </div>
   )
 }

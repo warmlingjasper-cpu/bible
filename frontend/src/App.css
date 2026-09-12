@@ -23,3 +23,28 @@
   gap: 30px;
   display: flex;
 }
+
+.play {
+  background-color: black;
+  color: aliceblue;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 0 5px #4e4e4e;
+  transition: 0.3s;
+}
+
+.play:hover {
+  background-color: rgb(63, 63, 63);
+  color: rgb(150, 147, 147);
+  box-shadow: 0 0 5px #484947;
+  transform: scale(1.1);
+}
+
+.game-result {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: Georgia, serif;
+  text-align: center;
+}
