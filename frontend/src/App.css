@@ -1,7 +1,8 @@
+
 :root {
-  --game-blue: #47ff0f;
-  --game-blue-light: #47ff0f;
-  --dark: #30363a;
+  --dark: #1e2430;
+  background-color: #1e2430;
+  background: #1e2430;
 }
 
 .bible{
@@ -13,8 +14,8 @@
 
 .box {
   margin: 100px;
-  border: 2px solid white;
-  border-radius: 10px;
+  background: #323a49;
+  border-radius: 25px;
   height: 300px;
   width: 500px;
   justify-content: center;
@@ -25,16 +26,18 @@
 }
 
 .play {
-  background-color: black;
+  background-color: rgb(206, 205, 206);
   color: aliceblue;
-  border-radius: 5px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
   cursor: pointer;
-  box-shadow: 0 0 5px #4e4e4e;
+  box-shadow: 0 0 5px #b4b4b4;
   transition: 0.3s;
 }
 
 .play:hover {
-  background-color: rgb(63, 63, 63);
+  background-color: rgb(170, 170, 170);
   color: rgb(150, 147, 147);
   box-shadow: 0 0 5px #484947;
   transform: scale(1.1);
@@ -45,6 +48,12 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  font-family: Georgia, serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-align: center;
+
+  max-width: 400px;
+
+  font-size: 22px;
+  line-height: 1.6;
+  font-weight: 400;
 }

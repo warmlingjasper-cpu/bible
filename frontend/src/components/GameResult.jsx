@@ -1,7 +1,7 @@
 function GameResult({ result }) {
 
   if (!result) {
-    return <p>Play!</p>
+    return <p>Clique em 🙏 para receber sua mensagem!</p>
   }
 
 

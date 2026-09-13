@@ -37,8 +37,43 @@ const bibleTexts = [
   },
 
   {
-    text: "Jesus reforça: o mandamento é amar uns aos outros.",
-    reference: "João 15:12"
+    text: "O justo cai sete vezes e se levanta.",
+    reference: "Provérbios 24:16"
+  },
+
+  {
+    text: "Acima de tudo, guarde o seu coração, pois dele depende toda a sua vida.",
+    reference: "Provérbios 4:23"
+  },
+
+  {
+    text: "Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, pois tu estás comigo.",
+    reference: "Salmos 23:4"
+  },
+
+  {
+    text: "Perdoem, e vocês serão perdoados.",
+    reference: "Lucas 6:37"
+  },
+
+  {
+    text: "Não se preocupem com o amanhã.",
+    reference: "Mateus 6:34"
+  },
+
+  {
+    text: "Há um tempo certo para tudo.",
+    reference: "Eclesiastes 3:1"
+  },
+
+  {
+    text: "Seja forte e corajoso. Não tenha medo, nem desanime.",
+    reference: "Josué 1:9"
+  },
+
+  {
+    text: "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento.",
+    reference: "Provérbios 3:5"
   },
 
 ]

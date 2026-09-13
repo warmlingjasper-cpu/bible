@@ -1,7 +1,7 @@
 :root {
   font-family: Arial, sans-serif;
   color: #f3f4f6;
-  background: #111;
+  background: #1f2632;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -21,10 +21,11 @@ body,
 }
 
 body {
-  background: #111;
+  background: #1f2632;
   color: #f3f4f6;
 }
 
 #root {
   min-height: 100vh;
 }
+
