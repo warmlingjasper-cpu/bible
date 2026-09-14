@@ -86,13 +86,13 @@ h2 {
   font-family: "Plus Jakarta Sans", sans-serif;
   line-height: 1.7;
   margin: 0;
+  margin-bottom: 15px;
 }
 
 .game-result small {
   color: #d9e1f0;
   font-size: 1.2rem;
   font-family: "Plus Jakarta Sans", sans-serif;
-  margin-top: 12px;
 }
 
 
@@ -140,11 +140,11 @@ h2 {
   .game-result p {
     font-size: 1.6rem;
     line-height: 1.6;
+    margin-bottom: 15px;
   }
 
   .game-result small {
     font-size: 1.2rem;
-    margin-top: 12px;
   }
 
 }
