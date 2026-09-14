@@ -1,7 +1,13 @@
+import '../App.css'
+
 function GameResult({ result }) {
 
   if (!result) {
-    return <p>Clique em 🙏 para receber sua mensagem!</p>
+    return (
+    <div className='game-result'>
+      <p>Clique em 🙏 para receber sua mensagem</p>
+    </div>
+    )
   }
 
 

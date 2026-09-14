@@ -1,59 +1,114 @@
-
 :root {
   --dark: #1e2430;
   background-color: #1e2430;
   background: #1e2430;
 }
 
-.bible{
+.decoration {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 10px 0;
+}
+
+.decoration::before,
+.decoration::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #a3a3a3;
+}
+
+.decoration span {
+  font-size: 12px;
+}
+
+
+h1,
+h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 0;
+    color: #d9e1f0;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.bible {
   justify-content: center;
   display: flex;
   align-items: center;
   flex-direction: column;
+  color: #d9e1f0;
+  font-family: "Plus Jakarta Sans", sans-serif;
 }
 
 .box {
-  margin: 100px;
+
   background: #323a49;
-  border-radius: 25px;
-  height: 300px;
-  width: 500px;
+  color: #d9e1f0;
+
+  height: 350px;
+
   justify-content: center;
-  align-items: center;
+
   flex-direction: column;
   gap: 30px;
   display: flex;
-}
 
-.play {
-  background-color: rgb(206, 205, 206);
-  color: aliceblue;
-  border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  cursor: pointer;
-  box-shadow: 0 0 5px #b4b4b4;
-  transition: 0.3s;
-}
 
-.play:hover {
-  background-color: rgb(170, 170, 170);
-  color: rgb(150, 147, 147);
-  box-shadow: 0 0 5px #484947;
-  transform: scale(1.1);
-}
+  width: min(90%, 600px);
+  margin: 45px auto 0;
+  padding: 60px 25px;
+  border-radius: 20px;
 
-.game-result {
-  justify-content: center;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-align: center;
 
-  max-width: 400px;
+  position: relative;
+}
 
-  font-size: 22px;
-  line-height: 1.6;
-  font-weight: 400;
+
+.game-result p {
+  color: #d9e1f0;
+  font-size: 1.4rem;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.game-result small {
+  color: #d9e1f0;
+  font-size: 1.2rem;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+
+.prayer-button {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  background: #cad7ec;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 35px auto 0;
+  cursor: pointer;
+  box-shadow: 0 6px 20px rgba(248, 248, 248, 0.25);
+  transition: box-shadow 0.2s ease, transform 0.3s ease;
+
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+
+}
+
+.prayer-button:hover {
+  transform: translateX(-50%) scale(1.05);
+  box-shadow: 0 12px 40px rgba(248, 248, 248, 0.25);
+  
+}
+
+.prayer-button:active {
+  transform: translateX(-50%) scale(0.92);
+  box-shadow: 0 3px 10px rgba(248, 248, 248, 0.25);
 }

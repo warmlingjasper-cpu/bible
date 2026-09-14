@@ -21,20 +21,20 @@ function App() {
   return (
 
     <div className="bible">
-      <h2>Bible</h2>
+      <h1>Palavra Diária</h1>
 
       <main className="box">
-        <p>
-          <GameResult
-            result={result}
-          />
-        </p>
-          <button
-            className="play"
-            onClick={handlePlayerChoice}
-          >
-            🙏
-          </button>
+       
+        <GameResult result={result} />
+
+        <div className="decoration"></div>
+
+        <button
+          className="prayer-button"
+          onClick={handlePlayerChoice}
+        >
+          🙏
+        </button>
       </main>
     </div>
 
