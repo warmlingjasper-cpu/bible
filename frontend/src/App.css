@@ -7,6 +7,9 @@
 .decoration {
   display: flex;
   align-items: center;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
   gap: 10px;
   margin: 10px 0;
 }
@@ -15,8 +18,9 @@
 .decoration::after {
   content: "";
   flex: 1;
+  min-width: 0;
   height: 1px;
-  background: #a3a3a3;
+  background: #444;
 }
 
 .decoration span {
@@ -47,7 +51,8 @@ h2 {
   background: #323a49;
   color: #d9e1f0;
 
-  height: 350px;
+  min-height: 300px;
+  height: auto;
 
   justify-content: center;
 
@@ -64,13 +69,23 @@ h2 {
   text-align: center;
 
   position: relative;
+
+  padding: 60px 25px 80px;
 }
 
+.game-result {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+}
 
 .game-result p {
   color: #d9e1f0;
   font-size: 1.4rem;
   font-family: "Plus Jakarta Sans", sans-serif;
+  line-height: 1.7;
+  margin: 0;
 }
 
 .game-result small {
@@ -111,4 +126,23 @@ h2 {
 .prayer-button:active {
   transform: translateX(-50%) scale(0.92);
   box-shadow: 0 3px 10px rgba(248, 248, 248, 0.25);
+}
+
+@media (max-width: 600px) {
+
+  .box {
+    width: 90%;
+    min-height: 320px;
+    padding: 45px 20px 85px;
+  }
+
+  .game-result p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  .game-result small {
+    font-size: 0.75rem;
+  }
+
 }
