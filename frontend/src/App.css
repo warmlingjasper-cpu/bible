@@ -137,12 +137,12 @@ h2 {
   }
 
   .game-result p {
-    font-size: 1rem;
+    font-size: 1.6rem;
     line-height: 1.6;
   }
 
   .game-result small {
-    font-size: 0.75rem;
+    font-size: 1.2rem;
   }
 
 }
