@@ -129,6 +129,40 @@ h2 {
   box-shadow: 0 3px 10px rgba(248, 248, 248, 0.25);
 }
 
+.theme-select {
+  display: block;
+  margin: 25px auto 0;
+  padding: 10px 40px 10px 15px;
+
+  background: #323a49;
+  color: #d9e1f0;
+
+  border: 1px solid rgba(217, 225, 240, 0.25);
+  border-radius: 10px;
+
+  font-size: 1rem;
+  font-family: "Plus Jakarta Sans", sans-serif;
+
+  cursor: pointer;
+  outline: none;
+
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.theme-select:hover {
+  border-color: rgba(217, 225, 240, 0.5);
+}
+
+.theme-select:focus {
+  border-color: rgba(217, 225, 240, 0.6);
+  box-shadow: 0 0 0 2px rgba(217, 225, 240, 0.1);
+}
+
+.theme-select option {
+  background: #323a49;
+  color: #d9e1f0;
+}
+
 @media (max-width: 600px) {
 
   .box {
