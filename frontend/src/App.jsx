@@ -10,6 +10,12 @@ import filosofiaRomana from './data/filosofia/filosofia-romana'
 import alcorao from './data/alcorao'
 import tora from './data/tora'
 import salmos from './data/salmos'
+import poesia from './data/poesia'
+import civilizacoes from './data/historia/civilizacoes'
+import idadecontemporanea from './data/historia/idadecontemporanea'
+import idademedia from './data/historia/idademedia'
+import idademoderna from './data/historia/idademoderna'
+
 
 
   const themes = {
@@ -21,7 +27,12 @@ import salmos from './data/salmos'
     "Filosofia Romana": filosofiaRomana,
     Alcorão: alcorao,
     Torá: tora,
-    Salmos: salmos
+    Salmos: salmos,
+    Poesia: poesia,
+    "Idade Média": idademedia,
+    "Idade Moderna": idademoderna,
+    "História Contemporânea": idadecontemporanea,
+    Civilizações: civilizacoes,
   }
 
 
@@ -29,7 +40,17 @@ function App() {
 
   const [result, setResult] = useState(null)
   const [selectedTheme, setSelectedTheme] = useState("Bíblia")
+  const religiousThemes = [
+    "Bíblia",
+    "Alcorão",
+    "Torá",
+    "Salmos",
+    "Budismo",
+    "Taoismo",
+    "Poesia",
+  ]
 
+  const buttonEmoji = religiousThemes.includes(selectedTheme) ? "🙏" : "🔎"
 
   function handlePlayerChoice() {
 
@@ -67,11 +88,25 @@ function App() {
           <option value="Filosofia Grega">Filosofia Grega</option>
           <option value="Filosofia Romana">Filosofia Romana</option>
         </optgroup>
+
+        <optgroup label="Poesia">
+          <option value="Poesia">Poesia</option>
+        </optgroup>
+
+        <optgroup label="História">
+          <option value="Civilizações">Civilizações</option>
+          <option value="Idade Média">Idade Média</option>
+          <option value="Idade Moderna">Idade Moderna</option>
+          <option value="História Contemporânea">História Contemporânea</option>
+        </optgroup>
       </select>
 
       <main className="box">
        
-        <GameResult result={result} />
+        <GameResult
+          result={result}
+          selectedTheme={selectedTheme}
+        />
 
         <div className="decoration"></div>
 
@@ -79,7 +114,7 @@ function App() {
           className="prayer-button"
           onClick={handlePlayerChoice}
         >
-          🙏
+          {buttonEmoji}
         </button>
       </main>
     </div>

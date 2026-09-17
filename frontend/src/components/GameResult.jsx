@@ -1,11 +1,25 @@
 import '../App.css'
 
-function GameResult({ result }) {
+function GameResult({ result, selectedTheme }) {
 
   if (!result) {
     return (
-    <div className='game-result'>
-      <p>Clique em 🙏 para receber sua mensagem</p>
+    <div className="game-result">
+      <p>
+        Clique em{" "}
+        {[
+          "Bíblia",
+          "Alcorão",
+          "Torá",
+          "Salmos",
+          "Budismo",
+          "Taoismo",
+          "Poesia",
+        ].includes(selectedTheme)
+          ? "🙏"
+          : "🔎"}{" "}
+        para receber sua mensagem
+      </p>
     </div>
     )
   }
