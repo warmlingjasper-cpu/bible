@@ -851,7 +851,527 @@ const civilizacoes = [
   {
     text: "A história dos incas não termina com a conquista. Sua herança permanece presente em comunidades andinas, línguas, técnicas agrícolas, arquitetura, memória histórica e identidades indígenas contemporâneas.",
     reference: "Incas — Legado — The Incas — Terence N. D’Altroy"
-  }
+  },
+
+    // =====================================================
+  // HISTÓRIA DA HUMANIDADE — SAPIENS — 201 a 220
+  // =====================================================
+
+  {
+    text: "A história do Homo sapiens é muito mais antiga do que a história das cidades, Estados e impérios. Durante a maior parte de sua existência, nossa espécie viveu em pequenos grupos de caçadores-coletores, espalhando-se gradualmente por diferentes ambientes do planeta.",
+    reference: "História da Humanidade — Homo sapiens — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Uma das grandes ideias de Sapiens é que a trajetória humana pode ser observada através de algumas grandes revoluções: a transformação cognitiva, a adoção da agricultura e, muito mais tarde, o desenvolvimento da ciência moderna. Harari usa essas transições para construir uma narrativa de longa duração.",
+    reference: "História da Humanidade — As grandes revoluções — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A chamada Revolução Cognitiva é utilizada por Harari para descrever uma transformação na capacidade dos Homo sapiens de criar e compartilhar informações, histórias e conceitos abstratos. A interpretação exata sobre quando e como essa transformação ocorreu continua sendo debatida entre pesquisadores.",
+    reference: "História da Humanidade — Revolução Cognitiva — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A capacidade de falar sobre coisas que não estavam presentes fisicamente teria permitido aos humanos coordenar comportamentos de maneiras cada vez mais complexas. Essa capacidade de comunicação simbólica é uma das características que Harari considera fundamentais para explicar a expansão do Homo sapiens.",
+    reference: "História da Humanidade — Linguagem e cooperação — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Harari argumenta que histórias compartilhadas podem unir grandes quantidades de pessoas que nunca se conheceram pessoalmente. Religiões, leis, Estados e moedas são apresentados em Sapiens como exemplos de sistemas baseados em crenças e regras compartilhadas.",
+    reference: "História da Humanidade — Realidades compartilhadas — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Uma comunidade humana pode ser muito maior do que o número de pessoas que cada indivíduo consegue conhecer pessoalmente. Instituições e símbolos compartilhados permitem que milhões de indivíduos coordenem comportamentos mesmo sem relações pessoais diretas.",
+    reference: "História da Humanidade — Cooperação em grande escala — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Bandeiras, Estados, empresas e religiões não são organismos biológicos, mas estruturas sociais mantidas por regras, símbolos e crenças compartilhadas. Harari usa esse fenômeno para discutir como os humanos conseguem construir instituições que sobrevivem às pessoas que as criaram.",
+    reference: "História da Humanidade — Instituições imaginadas — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O conceito de 'ordem imaginada' utilizado por Harari descreve sistemas sociais que existem porque grandes grupos de pessoas acreditam nas mesmas regras e categorias. Dinheiro, leis e hierarquias podem continuar funcionando mesmo quando ninguém consegue apontar para sua existência física como apontaria para uma árvore ou uma montanha.",
+    reference: "História da Humanidade — Ordem imaginada — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A cooperação humana em larga escala não depende apenas de força militar. Pessoas podem cooperar porque compartilham histórias, valores, leis, religiões ou interesses econômicos, criando estruturas que ultrapassam as relações familiares.",
+    reference: "História da Humanidade — Cooperação — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A capacidade de transmitir informações sobre indivíduos ausentes ou acontecimentos hipotéticos ampliou enormemente as possibilidades da organização social. Uma comunidade podia planejar ações futuras e estabelecer regras que não dependiam apenas da experiência imediata.",
+    reference: "História da Humanidade — Comunicação — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A agricultura alterou profundamente a história humana porque permitiu produzir grandes quantidades de alimento em determinadas regiões. Essa mudança favoreceu o crescimento populacional e a formação de comunidades permanentes.",
+    reference: "História da Humanidade — Revolução Agrícola — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Harari apresenta a Revolução Agrícola como uma transformação ambígua. Ela aumentou a capacidade humana de produzir alimentos e sustentar populações maiores, mas também trouxe mais trabalho, doenças, dependência de cultivos específicos e novas formas de desigualdade.",
+    reference: "História da Humanidade — Consequências da agricultura — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O trigo é utilizado por Harari como exemplo de como uma espécie vegetal passou a ocupar um lugar central na vida humana. Ao cultivar grandes quantidades de trigo, os humanos também reorganizaram seus próprios padrões de alimentação, trabalho e ocupação do território.",
+    reference: "História da Humanidade — Trigo e agricultura — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A agricultura não significou simplesmente que os humanos passaram a ter mais tempo livre. Em muitos contextos, agricultores precisavam trabalhar intensamente para plantar, cuidar das colheitas, armazenar alimentos e proteger seus campos.",
+    reference: "História da Humanidade — Trabalho agrícola — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A domesticação modificou tanto os humanos quanto plantas e animais. Ao selecionar determinadas características durante gerações, comunidades agrícolas alteraram espécies inteiras e criaram relações de dependência mútua.",
+    reference: "História da Humanidade — Domesticação — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A expansão da agricultura produziu mudanças ambientais profundas. Florestas foram derrubadas, campos foram cultivados e animais passaram a ser criados em grande número, fazendo da atividade humana uma força ambiental cada vez mais importante.",
+    reference: "História da Humanidade — Agricultura e ambiente — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O crescimento das populações agrícolas favoreceu a formação de aldeias maiores, cidades e posteriormente Estados. Entretanto, essa transformação ocorreu lentamente e de maneiras diferentes em diferentes partes do mundo.",
+    reference: "História da Humanidade — Aldeias e cidades — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O excedente agrícola permitiu que parte da população se dedicasse a atividades diferentes da produção direta de alimentos. Artesãos, soldados, sacerdotes, comerciantes e administradores puderam se especializar em funções específicas.",
+    reference: "História da Humanidade — Especialização — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A concentração de alimentos e recursos também criou novas possibilidades de poder. Quem controlava terras, estoques, trabalhadores ou instituições podia exercer influência sobre comunidades muito maiores.",
+    reference: "História da Humanidade — Recursos e poder — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O crescimento populacional tornou necessário desenvolver métodos para organizar comunidades cada vez maiores. Administração, registros, impostos, leis e hierarquias passaram a desempenhar papéis fundamentais nas primeiras sociedades complexas.",
+    reference: "História da Humanidade — Administração — Sapiens — Yuval Noah Harari"
+  },
+
+
+  // =====================================================
+  // ESCRITA, DINHEIRO E IMPÉRIOS — 221 a 245
+  // =====================================================
+
+  {
+    text: "A escrita foi uma das tecnologias mais importantes para administrar sociedades complexas. Registros permitiam controlar impostos, propriedades, alimentos, trabalhadores, contratos e obrigações que seriam difíceis de memorizar individualmente.",
+    reference: "História da Humanidade — Escrita — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Os primeiros sistemas de escrita conhecidos estavam fortemente relacionados à administração econômica. Contabilizar produtos, trabalhadores e estoques era uma necessidade prática para comunidades que haviam se tornado grandes demais para depender apenas da memória.",
+    reference: "História da Humanidade — Escrita e administração — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A escrita não serviu apenas para preservar literatura. Ela criou uma memória externa que permitia armazenar informações durante longos períodos e transmiti-las entre pessoas que não haviam participado diretamente dos acontecimentos.",
+    reference: "História da Humanidade — Memória escrita — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A matemática administrativa tornou possível registrar grandes quantidades de informação. Números, tabelas, listas e categorias ajudaram governos e instituições a administrar populações, impostos e recursos.",
+    reference: "História da Humanidade — Números e administração — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A burocracia permitiu que instituições sobrevivessem à morte de indivíduos específicos. Um Estado podia continuar funcionando porque cargos, regras, arquivos e procedimentos eram transmitidos de uma geração de administradores para outra.",
+    reference: "História da Humanidade — Burocracia — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O dinheiro tornou possível trocar bens entre pessoas que não precisavam possuir exatamente aquilo que a outra desejava. Diferentes sociedades desenvolveram sistemas monetários utilizando objetos e posteriormente moedas que eram aceitos por comunidades inteiras.",
+    reference: "História da Humanidade — Dinheiro — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Harari descreve o dinheiro como um dos sistemas de confiança mais universais desenvolvidos pelos humanos. Uma moeda funciona porque muitas pessoas acreditam que poderão utilizá-la novamente para obter bens e serviços de outras pessoas.",
+    reference: "História da Humanidade — Confiança e dinheiro — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O dinheiro pode conectar pessoas de culturas diferentes porque sua função depende menos de parentesco ou religião e mais da confiança de que outras pessoas aceitarão o mesmo meio de troca.",
+    reference: "História da Humanidade — Comércio — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Comércio e dinheiro permitiram criar redes econômicas que ultrapassavam fronteiras políticas e culturais. Mercadores podiam transportar produtos, informações e tecnologias entre sociedades distantes.",
+    reference: "História da Humanidade — Redes comerciais — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Impérios foram uma das formas mais importantes de organização política da história. Eles reuniam diferentes povos sob uma autoridade comum, frequentemente através de uma combinação de conquista militar, administração e integração cultural.",
+    reference: "História da Humanidade — Impérios — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A expansão imperial frequentemente significava violência e exploração, mas também criava infraestrutura, circulação de pessoas e intercâmbio cultural. A história dos impérios precisa considerar simultaneamente seus mecanismos de dominação e seus processos de integração.",
+    reference: "História da Humanidade — Impérios e integração — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Harari observa que muitos impérios não tentaram eliminar completamente as culturas conquistadas. Governantes frequentemente mantiveram instituições locais enquanto incorporavam territórios a uma estrutura política maior.",
+    reference: "História da Humanidade — Administração imperial — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Impérios podiam espalhar línguas, religiões, leis e costumes através de territórios enormes. Mesmo quando o poder imperial desaparecia, parte dessas estruturas continuava influenciando as sociedades posteriores.",
+    reference: "História da Humanidade — Legados imperiais — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A religião foi uma das formas mais poderosas de criar comunidades humanas amplas. Sistemas religiosos podiam estabelecer regras morais, rituais, autoridades e histórias compartilhadas entre pessoas que nunca haviam se conhecido.",
+    reference: "História da Humanidade — Religião — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Religiões universais diferem de cultos exclusivamente locais porque procuram estabelecer princípios aplicáveis a comunidades muito maiores. Cristianismo, islamismo e budismo são exemplos históricos de tradições que se expandiram por regiões extensas.",
+    reference: "História da Humanidade — Religiões universais — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O conceito moderno de igualdade universal possui antecedentes em tradições religiosas e filosóficas muito antigas. Diferentes religiões desenvolveram ideias sobre dignidade, dever, compaixão e obrigações morais que ultrapassavam vínculos familiares.",
+    reference: "História da Humanidade — Moralidade e religião — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Sistemas sociais podem combinar diferentes formas de identidade. Uma pessoa pode pertencer simultaneamente a uma família, cidade, religião, reino e comunidade linguística, criando múltiplas camadas de pertencimento.",
+    reference: "História da Humanidade — Identidade — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A história humana foi marcada pela criação de hierarquias sociais. Algumas eram justificadas por religião, outras por nascimento, riqueza, gênero, ocupação ou origem. Essas hierarquias variaram enormemente entre sociedades e períodos.",
+    reference: "História da Humanidade — Hierarquias — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Harari chama atenção para o fato de que muitas hierarquias sociais são naturalizadas pelas próprias sociedades. Quando uma estrutura é apresentada como inevitável ou parte da natureza, torna-se mais difícil perceber que ela também possui uma história.",
+    reference: "História da Humanidade — Hierarquias sociais — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Categorias sociais como nobreza, castas e raças não possuem exatamente o mesmo significado em todas as épocas. Para compreender uma sociedade histórica, é necessário investigar como seus próprios membros definiam essas categorias.",
+    reference: "História da Humanidade — Categorias sociais — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A expansão dos impérios também provocou encontros entre populações que anteriormente tinham pouco contato. Esses encontros podiam gerar conflitos, doenças, casamentos, intercâmbios comerciais e transformações culturais.",
+    reference: "História da Humanidade — Encontros culturais — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "As grandes redes humanas fizeram com que acontecimentos locais tivessem consequências cada vez mais amplas. Uma epidemia, uma guerra ou uma inovação tecnológica podia atravessar fronteiras através das redes de comércio e migração.",
+    reference: "História da Humanidade — Interconexão — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A história humana pode ser entendida também como uma história de crescente integração. Comunidades que inicialmente estavam separadas passaram gradualmente a participar de redes econômicas, políticas, religiosas e culturais maiores.",
+    reference: "História da Humanidade — Integração humana — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A unificação não eliminou imediatamente as diferenças culturais. Mesmo dentro de grandes impérios e redes comerciais, povos mantiveram línguas, costumes, religiões e identidades próprias durante séculos.",
+    reference: "História da Humanidade — Diversidade e integração — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A história das civilizações não é apenas uma sequência de conquistas militares. Tecnologias, doenças, comércio, migrações, religiões e mudanças ambientais também tiveram enorme influência sobre a expansão e o declínio das sociedades.",
+    reference: "História da Humanidade — Dinâmica histórica — Sapiens — Yuval Noah Harari"
+  },
+
+
+  // =====================================================
+  // CIÊNCIA E REVOLUÇÃO CIENTÍFICA — 246 a 270
+  // =====================================================
+
+  {
+    text: "A Revolução Científica transformou a maneira como determinados grupos humanos procuravam compreender o mundo. Observação sistemática, matemática, experimentação e disposição para questionar conhecimentos anteriores ganharam importância crescente.",
+    reference: "História da Humanidade — Revolução Científica — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A ciência moderna não surgiu do nada. Ela foi construída sobre conhecimentos acumulados por sociedades antigas e medievais, incluindo contribuições gregas, romanas, indianas, chinesas, islâmicas e europeias.",
+    reference: "História da Humanidade — Origens da ciência moderna — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Uma característica importante da ciência moderna é admitir que o conhecimento atual pode estar incompleto. Essa postura permite que novas observações e experiências modifiquem teorias anteriores.",
+    reference: "História da Humanidade — Conhecimento científico — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A ciência moderna desenvolveu-se em conjunto com instituições que financiavam pesquisas e expedições. Governos, comerciantes, universidades e posteriormente empresas passaram a investir em conhecimento com diferentes objetivos.",
+    reference: "História da Humanidade — Ciência e instituições — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A exploração geográfica e a ciência moderna estiveram historicamente relacionadas. Mapas, astronomia, navegação, cartografia e conhecimentos sobre diferentes regiões ajudaram Estados europeus a expandir sua capacidade de exploração.",
+    reference: "História da Humanidade — Ciência e exploração — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A Revolução Científica também mudou a relação entre conhecimento e poder. Estados e empresas perceberam que compreender melhor a natureza poderia gerar vantagens militares, econômicas e políticas.",
+    reference: "História da Humanidade — Ciência e poder — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A expansão marítima europeia conectou continentes que anteriormente possuíam contatos muito mais limitados. Plantas, animais, pessoas, tecnologias e doenças passaram a circular entre o Velho e o Novo Mundo em escala sem precedentes.",
+    reference: "História da Humanidade — Intercâmbio colombiano — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A chegada dos europeus às Américas provocou consequências demográficas devastadoras para muitas populações indígenas. Doenças infecciosas para as quais essas populações tinham pouca imunidade tiveram papel central nesse processo.",
+    reference: "História da Humanidade — Doenças e conquista — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A expansão europeia também transferiu plantas e animais entre continentes. Milho, batata, tomate e outras espécies americanas passaram a fazer parte da alimentação de populações de outras regiões do mundo.",
+    reference: "História da Humanidade — Intercâmbio biológico — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O capitalismo moderno desenvolveu-se junto com novas formas de crédito, investimento e expansão comercial. A confiança em crescimento futuro permitiu financiar projetos que não poderiam ser realizados apenas com riqueza disponível no presente.",
+    reference: "História da Humanidade — Capitalismo — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O crédito depende da expectativa de que recursos futuros serão capazes de pagar compromissos assumidos no presente. Essa lógica tornou possível financiar empresas, expedições, infraestrutura e posteriormente grandes processos de industrialização.",
+    reference: "História da Humanidade — Crédito — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Empresas modernas introduziram formas novas de organização econômica. Capital podia ser reunido por muitos investidores e utilizado para projetos maiores do que aquilo que um único indivíduo poderia financiar.",
+    reference: "História da Humanidade — Empresas — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A expansão comercial europeia foi acompanhada por violência, escravidão e colonialismo. O crescimento das redes econômicas globais não ocorreu de maneira neutra, mas esteve ligado a relações profundamente desiguais de poder.",
+    reference: "História da Humanidade — Colonialismo — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O tráfico transatlântico de africanos escravizados tornou-se uma das maiores migrações forçadas da história. Milhões de pessoas foram transportadas contra sua vontade e submetidas a sistemas de exploração nas Américas.",
+    reference: "História da Humanidade — Escravidão atlântica — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O colonialismo reorganizou economias inteiras para atender aos interesses das potências imperiais. Recursos naturais, terras e trabalho foram incorporados a redes econômicas internacionais em condições frequentemente profundamente desiguais.",
+    reference: "História da Humanidade — Colonialismo e economia — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A Revolução Industrial ampliou enormemente a capacidade humana de produzir bens. Máquinas, combustíveis fósseis, fábricas e novas formas de organização do trabalho transformaram economias e cidades.",
+    reference: "História da Humanidade — Revolução Industrial — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O carvão e posteriormente o petróleo permitiram acessar quantidades de energia muito superiores às disponíveis apenas através da força humana, animal, vento e água. Essa mudança energética tornou possível uma expansão econômica sem precedentes.",
+    reference: "História da Humanidade — Energia — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A industrialização modificou profundamente o trabalho. A produção passou a ser organizada em fábricas e sistemas especializados, aumentando a produtividade, mas também criando novas formas de disciplina e dependência econômica.",
+    reference: "História da Humanidade — Trabalho industrial — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "As cidades cresceram rapidamente durante a industrialização. Milhões de pessoas migraram do campo para centros urbanos em busca de trabalho, criando novas oportunidades, mas também problemas de habitação, saneamento e saúde pública.",
+    reference: "História da Humanidade — Urbanização — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A industrialização alterou a relação entre tempo e trabalho. Horários padronizados, fábricas e transportes sincronizados tornaram a medição precisa do tempo uma necessidade cotidiana para sociedades industriais.",
+    reference: "História da Humanidade — Tempo e indústria — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A produção em massa reduziu o custo de diversos produtos e ampliou o acesso de parcelas maiores da população a bens antes considerados luxuosos. Ao mesmo tempo, criou novas formas de consumo e dependência econômica.",
+    reference: "História da Humanidade — Consumo — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O consumismo moderno não depende apenas da necessidade de adquirir bens. Publicidade, crédito, moda e expectativas sociais passaram a estimular pessoas a desejar produtos mesmo quando suas necessidades básicas já estavam satisfeitas.",
+    reference: "História da Humanidade — Consumismo — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A ideia de crescimento econômico contínuo tornou-se central em sociedades modernas. Empresas e governos passaram a considerar o aumento da produção e da riqueza como indicadores importantes de desenvolvimento.",
+    reference: "História da Humanidade — Crescimento econômico — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A Revolução Científica, o capitalismo e a industrialização não foram processos independentes. Conhecimento científico podia gerar tecnologias, tecnologias podiam aumentar produção e riqueza, e riqueza podia financiar novas pesquisas.",
+    reference: "História da Humanidade — Ciência, capitalismo e indústria — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A combinação entre ciência, indústria e Estados modernos criou uma capacidade inédita de transformar ambientes. Ferrovias, máquinas, barragens, fábricas e cidades modificaram paisagens em escala cada vez maior.",
+    reference: "História da Humanidade — Transformação ambiental — Sapiens — Yuval Noah Harari"
+  },
+
+
+  // =====================================================
+  // MUNDO CONTEMPORÂNEO E VISÃO DE LONGA DURAÇÃO — 271 a 300
+  // =====================================================
+
+  {
+    text: "A modernidade aumentou a capacidade humana de controlar e transformar o ambiente, mas também ampliou as consequências das atividades humanas. A mesma tecnologia que permite produzir mais alimentos e energia pode alterar ecossistemas inteiros.",
+    reference: "História da Humanidade — Humanos e ambiente — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A população humana cresceu de maneira extraordinária nos últimos séculos. Agricultura mais produtiva, saneamento, medicina, energia e infraestrutura permitiram sustentar populações muito maiores do que aquelas existentes durante a maior parte da história.",
+    reference: "História da Humanidade — Crescimento populacional — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A redução da mortalidade infantil foi uma das transformações demográficas mais importantes da modernidade. Melhorias em alimentação, saneamento, vacinação e medicina alteraram profundamente a expectativa de vida em muitas regiões.",
+    reference: "História da Humanidade — Demografia — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A medicina moderna transformou doenças que durante séculos eram frequentemente fatais. Vacinas, antibióticos, cirurgia, higiene e conhecimento científico reduziram significativamente a mortalidade causada por diversas enfermidades.",
+    reference: "História da Humanidade — Medicina moderna — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A globalização contemporânea levou a interdependência humana a uma escala extraordinária. Mercadorias, capitais, informações, pessoas e doenças podem atravessar continentes em períodos muito menores do que em qualquer época anterior.",
+    reference: "História da Humanidade — Globalização — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A internet ampliou radicalmente a velocidade da circulação de informações. Pessoas separadas por milhares de quilômetros podem agora compartilhar conhecimentos, opiniões e conteúdos praticamente em tempo real.",
+    reference: "História da Humanidade — Internet — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A globalização não eliminou fronteiras nacionais. Estados continuam controlando territórios, leis, impostos e políticas públicas, enquanto empresas e redes econômicas frequentemente operam através de múltiplas fronteiras.",
+    reference: "História da Humanidade — Estados e globalização — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O nacionalismo tornou-se uma das principais formas modernas de identidade coletiva. Pessoas podem sentir pertencimento a uma comunidade política muito maior do que sua cidade ou família, mesmo sem conhecer pessoalmente a maioria de seus membros.",
+    reference: "História da Humanidade — Nacionalismo — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Direitos humanos universais representam uma tentativa moderna de estabelecer princípios aplicáveis a todos os indivíduos independentemente de nacionalidade, religião ou posição social. Sua história envolve influências filosóficas, religiosas e políticas diversas.",
+    reference: "História da Humanidade — Direitos humanos — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O liberalismo, o socialismo, o nacionalismo e outras ideologias modernas ofereceram diferentes maneiras de interpretar sociedade, economia e política. Essas ideologias ajudaram a organizar movimentos políticos e conflitos dos últimos séculos.",
+    reference: "História da Humanidade — Ideologias modernas — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A história moderna mostrou que sistemas políticos podem mudar rapidamente quando novas ideias encontram crises econômicas, guerras ou transformações sociais. Revoluções políticas não surgem apenas de uma causa isolada.",
+    reference: "História da Humanidade — Revoluções — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "As revoluções modernas também transformaram a ideia de quem deveria participar da política. Em diferentes períodos, direitos políticos foram ampliados para grupos anteriormente excluídos, embora esse processo tenha ocorrido de maneira desigual entre sociedades.",
+    reference: "História da Humanidade — Participação política — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A alfabetização em massa transformou a relação entre indivíduos e informação. Escolas, livros, jornais e posteriormente meios digitais permitiram que conhecimentos e ideias circulassem entre populações cada vez maiores.",
+    reference: "História da Humanidade — Alfabetização — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A educação tornou-se uma instituição central das sociedades modernas. Além de transmitir conhecimento, escolas passaram a ensinar línguas, normas sociais, competências profissionais e valores considerados importantes por cada sociedade.",
+    reference: "História da Humanidade — Educação — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A padronização de medidas, horários, moedas, documentos e sistemas administrativos facilitou a coordenação entre milhões de pessoas. Estados modernos dependem de uma enorme quantidade de padrões compartilhados.",
+    reference: "História da Humanidade — Padronização — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Mapas, censos e estatísticas transformaram a maneira como Estados conhecem suas populações. Quantificar pessoas, recursos, produção e território permite administrar sociedades de maneira diferente das antigas comunidades locais.",
+    reference: "História da Humanidade — Estatística e Estado — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A burocracia moderna pode parecer impessoal porque decisões são frequentemente baseadas em documentos, formulários, números e regras. Essa impessoalidade permite administrar grandes populações, mas também pode tornar instituições difíceis de compreender individualmente.",
+    reference: "História da Humanidade — Burocracia moderna — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A ciência moderna transformou não apenas o conhecimento, mas também a imaginação sobre o futuro. Sociedades passaram a acreditar que novas descobertas poderiam produzir tecnologias capazes de alterar profundamente as condições de vida.",
+    reference: "História da Humanidade — Futuro e ciência — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A tecnologia moderna permitiu que humanos modificassem não apenas ambientes, mas também organismos. Engenharia genética, reprodução assistida e biotecnologia levantaram possibilidades que durante a maior parte da história pertenciam apenas ao imaginário.",
+    reference: "História da Humanidade — Biotecnologia — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Harari utiliza a possibilidade de modificar organismos para discutir uma questão mais ampla: se a humanidade adquirir capacidade de redesenhar seres vivos, inclusive seres humanos, poderá precisar repensar conceitos tradicionais de natureza, identidade e limites tecnológicos.",
+    reference: "História da Humanidade — Engenharia genética — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A inteligência artificial representa outra etapa da transformação tecnológica porque sistemas computacionais podem executar tarefas que anteriormente exigiam capacidades humanas específicas. Seu impacto histórico ainda está em desenvolvimento.",
+    reference: "História da Humanidade — Inteligência artificial — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A história humana pode ser observada como uma expansão gradual da capacidade de cooperação entre indivíduos desconhecidos. Famílias deram lugar a aldeias, cidades, Estados, impérios e redes econômicas globais, embora cada etapa tenha mantido conflitos e divisões.",
+    reference: "História da Humanidade — Cooperação em escala — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "As grandes transformações humanas raramente possuem apenas consequências positivas ou negativas. Agricultura, impérios, ciência, capitalismo e tecnologia produziram benefícios para alguns grupos e custos para outros, dependendo do contexto histórico.",
+    reference: "História da Humanidade — Ambivalência histórica — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A história das civilizações não deve ser confundida com uma marcha inevitável rumo ao progresso. Sociedades podem crescer, fragmentar-se, entrar em crise ou desaparecer, enquanto diferentes regiões seguem trajetórias muito distintas.",
+    reference: "História da Humanidade — Mudança histórica — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O conceito de progresso é uma interpretação histórica, não uma lei da natureza. Aumentar tecnologia ou riqueza pode representar avanços em determinadas dimensões sem necessariamente produzir melhorias equivalentes em todas as áreas da vida.",
+    reference: "História da Humanidade — Progresso — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A história humana também é uma história de dependências. Indivíduos dependem de instituições, instituições dependem de recursos, economias dependem de infraestrutura e sociedades dependem de ecossistemas que frequentemente não controlam completamente.",
+    reference: "História da Humanidade — Interdependência — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "Quanto maior se tornou a capacidade humana de transformar o planeta, maiores também ficaram as consequências coletivas das decisões individuais e institucionais. A escala da ação humana moderna é uma das características que diferencia o presente de grande parte do passado.",
+    reference: "História da Humanidade — Escala humana — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A história de Homo sapiens pode ser vista como uma combinação de biologia, cultura, tecnologia, instituições e ambiente. Nenhum desses elementos explica sozinho a trajetória humana; a interação entre eles produziu sociedades cada vez mais complexas.",
+    reference: "História da Humanidade — Síntese — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "O estudo da história de longa duração ajuda a perceber que instituições consideradas naturais ou permanentes possuem origens históricas específicas. Estados, dinheiro, religiões, empresas e sistemas jurídicos foram construídos por seres humanos e transformados ao longo do tempo.",
+    reference: "História da Humanidade — História de longa duração — Sapiens — Yuval Noah Harari"
+  },
+
+  {
+    text: "A principal contribuição de uma visão panorâmica como a de Sapiens é conectar acontecimentos que normalmente são estudados separadamente. Agricultura, religião, impérios, comércio, ciência e tecnologia podem ser analisados como partes de uma história humana interligada, sem deixar de reconhecer que essa interpretação é uma entre várias possíveis.",
+    reference: "História da Humanidade — Visão panorâmica — Sapiens — Yuval Noah Harari"
+  },
+
 
 ];
 
