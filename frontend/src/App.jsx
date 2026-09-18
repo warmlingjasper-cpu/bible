@@ -33,7 +33,7 @@ import prehistoria from './data/historia/prehistoria'
     "Filosofia Romana": filosofiaRomana,
     "Filosofia Medieval": filosofiaMedieval,
     "Filosofia Moderna": filosofiaModerna,
-    "Filosofia Contemporâne": filosofiacontemporanea,
+    "Filosofia Contemporânea": filosofiacontemporanea,
     Alcorão: alcorao,
     Torá: tora,
     Salmos: salmos,
